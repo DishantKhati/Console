@@ -2,7 +2,6 @@ import os
 import random
 import pyttsx3
 from os import system, name
-
 engine = pyttsx3.init("sapi5")
 voices = engine.getProperty("voices")
 engine.setProperty("voice", voices[0].id)
