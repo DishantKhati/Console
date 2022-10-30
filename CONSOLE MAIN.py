@@ -300,4 +300,4 @@ if __name__ == "__main__":
           print("\t\t\t\t\t\t\t MEDAL (M)")
   speak("QUITING CONSOLE")
   speak("good bye")    
-  
+ 
